@@ -6,7 +6,7 @@ Louise is an up-and-coming playwright. She is attempting to use crowdfunding to 
 
 ## Analysis
 
-When first looking at the data, the first thing to notice is that a great many of the kickstarter campaigns had nothing to do with plays, or even theater for that matter. The first challenge, then was to break the data down into only that pertinent for Louise. 
+When looking at the data, the first thing to notice is that a great many of the kickstarter campaigns had nothing to do with plays, or even theater for that matter. The first challenge, was to break the data down into only that pertinent for Louise. 
 <img width="981" alt="Screen Shot 2021-03-21 at 7 41 48 PM" src="https://user-images.githubusercontent.com/80495710/111928629-97183c80-8a8a-11eb-94c7-cf0157341acd.png">
 
 The category and subcategory data was initially combined, and we had to separate it out to filter it. 
@@ -46,7 +46,7 @@ Since Louise already had a budget of $10,000, the outcomes based on goals gives 
 
 ### Limitations
 
-The biggest limitation, is that while the kickstarter data is vast, we don’t have an extensive amount for plays just like Louise’s. Only 72 other plays fit in the same cost bracket as hers, and those aren’t necessarily from the same city as Louise (I would imagine that people are more likely to fund a production if it is local) or if those campaigns had some buzzwords that really invested people in them. Additionally, because there are so few campaigns with goals greater than $15,000, it is hard to say whether raising her cost of production to $35,000 would actually increase her chances of achieving that goal (as seen in the chart it has a 67% success rate but that is represented by just 4 of 6, not 200 of 300 *per se*). Additionally, the *Theater Outcomes Based on Launch Date* looks somewhat misleading. It has only the number of successes and failures. I think it would give a more accurate relationship if it were based on percentage (as the two primary categories always have at least 30 members). 
+The biggest limitation, is that while the kickstarter data is vast, we don’t have an extensive amount for plays just like Louise’s. Only 72 other plays fit in the same cost bracket as hers, and those aren’t necessarily from the same city as Louise (I would imagine that people are more likely to fund a production if it is local) or if those campaigns had some buzzwords that drew people to them. Additionally, because there are so few campaigns with goals greater than $15,000, it is hard to say whether raising her cost of production to $35,000 would actually increase her chances of achieving that goal (as seen in the chart it has a 67% success rate but that is represented by just 4 of 6, not 200 of 300 *per se*). Additionally, the *Theater Outcomes Based on Launch Date* looks somewhat misleading. It has only the number of successes and failures. I think it would give a more accurate relationship if it were based on percentage (as the two primary categories always have at least 30 members). 
 
 ### Further Analysis
 
